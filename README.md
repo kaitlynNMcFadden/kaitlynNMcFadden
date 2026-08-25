@@ -16,6 +16,15 @@
 
 ![Python](https://img.shields.io/badge/Python--0969da?style=for-the-badge&logo=python) ![R](https://img.shields.io/badge/R--0969da?style=for-the-badge&logo=r) ![NumPy](https://img.shields.io/badge/NumPy--0969da?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas--0969da?style=for-the-badge&logo=pandas) ![Git](https://img.shields.io/badge/Git--0969da?style=for-the-badge&logo=git) ![Jupyter](https://img.shields.io/badge/Jupyter--0969da?style=for-the-badge&logo=jupyter)
 
+## Featured Projects
+
+### historical-stock-simulator
+Interactive educational stock market simulator using historical market events to teach investment decision-making. 
+
+**Tech:** Python
+[📁 Repository](https://github.com/kaitlynNMcFadden/historical-stock-simulator)
+
+
 ## Connect With Me
 
 <p align="center">[github](https://github.com/kaitlynNMcFadden) | [linkedin](www.linkedin.com/in/kaitlyn-mcfadden)</p>
