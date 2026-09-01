@@ -12,6 +12,22 @@
 • 📊 Data Science + Economics
 • 🤝 Looking for Opportunities</p>
 
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/kaitlynNMcFadden">
+    <img src="https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kaitlyn-mcfadden">
+    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="./Kaitlyn_McFadden_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-F472B6?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
 ## Tech Stack
 
 ### Languages                                                                                                                   
