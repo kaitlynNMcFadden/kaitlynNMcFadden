@@ -27,7 +27,18 @@ Interactive educational stock market simulator using historical market events to
 
 ## Connect With Me
 
-<p align="center">[github](https://github.com/kaitlynNMcFadden) | [linkedin](www.linkedin.com/in/kaitlyn-mcfadden)</p>
+<p align="center">
+  <a href="https://github.com/kaitlynNMcFadden">
+    <img src="https://img.shields.io/badge/GitHub-View_Profile-0969da?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/kaitlyn-mcfadden">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0969da?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="./Kaitlyn_McFadden_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-0969da?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
+</p>
+<!-- <p align="center">[github](https://github.com/kaitlynNMcFadden) | [linkedin](www.linkedin.com/in/kaitlyn-mcfadden)</p> -->
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome%20to%20my%20GitHub%20Profile!%20%F0%9F%91%8B;Always%20Learning%20New%20Things;Aspiring%20Data%20Scientist&width=561&center=true&color=F472B6&size=24&pause=1000" alt="Typing SVG" /></p>
 
