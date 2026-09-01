@@ -14,7 +14,21 @@
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python--0969da?style=for-the-badge&logo=python) ![R](https://img.shields.io/badge/R--0969da?style=for-the-badge&logo=r) ![NumPy](https://img.shields.io/badge/NumPy--0969da?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas--0969da?style=for-the-badge&logo=pandas) ![Git](https://img.shields.io/badge/Git--0969da?style=for-the-badge&logo=git) ![Jupyter](https://img.shields.io/badge/Jupyter--0969da?style=for-the-badge&logo=jupyter)
+### Languages                                                                                                                   
+![Python](https://img.shields.io/badge/Python-F472B6?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-F472B6?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F472B6?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-F472B6?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-F472B6?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F472B6?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F472B6?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F472B6?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ## Featured Projects
 
@@ -29,13 +43,15 @@ Interactive educational stock market simulator using historical market events to
 
 <p align="center">
   <a href="https://github.com/kaitlynNMcFadden">
-    <img src="https://img.shields.io/badge/GitHub-View_Profile-0969da?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/kaitlyn-mcfadden">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0969da?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="./Kaitlyn_McFadden_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View_PDF-0969da?style=for-the-badge&logo=adobeacrobatreader">
+    <img src="https://img.shields.io/badge/Resume-F472B6?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
 </p>
 <!-- <p align="center">[github](https://github.com/kaitlynNMcFadden) | [linkedin](www.linkedin.com/in/kaitlyn-mcfadden)</p> -->
