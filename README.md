@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/kaitlynNMcFadden?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+    <img src="https://img.shields.io/badge/Projects-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kaitlyn-mcfadden">
