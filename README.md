@@ -14,7 +14,7 @@
 
 ## Connect With Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/kaitlynNMcFadden?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-F472B6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
@@ -23,8 +23,32 @@
     <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="./Kaitlyn_McFadden_Resume.pdf">
+  <a href="./Resume2026.pdf">
     <img src="https://img.shields.io/badge/Resume-F472B6?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="./FederalResume.pdf">
+    <img src="https://img.shields.io/badge/Federal%20Resume-F472B6?style=for-the-badge&logo=readme&logoColor=white" alt="Federal Resume" />
+  </a>
+</p> -->
+<p align="center">
+  <a href="https://github.com/kaitlynNMcFadden?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-F472B6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projects" />
+  </a>
+  &nbsp;
+
+  <a href="https://www.linkedin.com/in/kaitlyn-mcfadden">
+    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+
+  <a href="./Resume2026.pdf">
+    <img src="https://img.shields.io/badge/Resume-F472B6?style=for-the-badge&amp;logo=readme&amp;logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;
+
+  <a href="./FederalResume.pdf">
+    <img src="https://img.shields.io/badge/Federal%20Resume-F472B6?style=for-the-badge&amp;logo=readme&amp;logoColor=white" alt="Federal Resume" />
   </a>
 </p>
 
